@@ -1,4 +1,4 @@
 
-# Olá, Somos a Ignite Cloud
+# Ignite Cloud
 
-Somos um projeto sem fins lucrativos com o intuito de oferecer hospedagem gratuita 24/7
+Somos um pequeno projeto em nuvem baseada em containers que cresceu com a vontade de disponibilizar hospedagem gratuita, facil e segura para todos
